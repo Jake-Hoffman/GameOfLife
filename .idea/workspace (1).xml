@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2edb0ff7-6b37-4225-9b10-5c3a979db1f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3D Graphics Engine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoinTossReward/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CoinTossReward/src/CoinToss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/Collisions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/src/Blocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/src/CollisionsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/src/DisplayCollisions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collisions/src/MathTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/ArrangedProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/ConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/CrossFlips.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/EvenFibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/LargestPalindromicProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/LargestProductInAGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/LeastCommonMultiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/MathFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/MultThreeFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/NthPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/SpecialPythagoreanTriplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/SumOfPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/SumSquareDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/TriangleHexagons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EulerProject/src/largestPrimeFactor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/BasisVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/GraphicsPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/MatrixController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/MatrixMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/MatrixModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrixes/src/MatrixView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3D Graphics Engine/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3D Graphics Engine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/DisplayGraphics$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/DisplayGraphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/DrawGraphics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/ExitableJFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/GraphicsPanel$MyPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/GraphicsPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathObjects$mesh.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathObjects$prism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathObjects$triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathObjects$vec3D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathObjects.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D Graphics Engine/out/production/3D Graphics Engine/GraphicsComponents (1)/MathOps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AP Computer Science A/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AP Computer Science A/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/out/production/AP Computer Science A/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/CardGameGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/ElevensBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/ElevensGUIRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AP Computer Science A/src/Shuffler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AlgorithmMVC/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AlgorithmMVC/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DailyProgrammer/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DailyProgrammer/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DailyProgrammer/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DailyProgrammer/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DailyProgrammer/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DailyProgrammer/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DailyProgrammer/DailyProgrammer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../DailyProgrammer/DailyProgrammer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameOfLife.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GameOfLife.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/CellSheet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GameOfLife/CellSheet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GameOfLife/META-INF/GameOfLife.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CellMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CellMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CellModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CellModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CellSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CellSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DisplayCells.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DisplayCells.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/MazeSolver.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/MazeSolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/out/production/MazeSolver/MazeDisplay$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/src/MazeDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/src/MazeDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/src/MazeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/src/MazeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MazeSolver/src/MazeNav.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MazeSolver/src/MazeNav.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/libraries/com_io7m_bundles_org_jogamp_jogl_2_3_2001.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/libraries/com_io7m_bundles_org_jogamp_jogl_2_3_2001.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/libraries/javax.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/libraries/javax.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/libraries/libraries.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/libraries/libraries.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/libraries/libs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/libraries/libs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/Particles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/Particles.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/libs/lwjgl-release-all-zip.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/libs/lwjgl-release-all-zip.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/IGameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/IGameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/Window.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/Window.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/engine/graph/ShaderProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/engine/graph/ShaderProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/game/DummyGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/game/DummyGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Particles/src/game/Renderer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Particles/src/game/Renderer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/ParticlesSwing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/ParticlesSwing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/engine/GameEngine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/engine/GameEngine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/engine/IGameLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/engine/IGameLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/engine/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/engine/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/game/FluidSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/game/FluidSimulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ParticlesSwing/src/game/RenderWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ParticlesSwing/src/game/RenderWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SortingAlgorithms/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/AlgorithmMain$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/AlgorithmMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/ExitableJFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/MainJFrame$MyPanel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/MainJFrame$MyPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/MainJFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SortingAlgorithms/out/production/SortingAlgorithms/AlgorithmDisplay (1)/ValueRectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPermutations/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPermutations/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPermutations/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPermutations/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPermutations/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPermutations/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPermutations/SuperPermutations.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPermutations/SuperPermutations.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SuperPermutations/src/mutations.java" beforeDir="false" afterPath="$PROJECT_DIR$/../SuperPermutations/src/mutations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/Test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/Test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/src/PalindromePrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/src/PalindromePrime.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1588560443">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CellMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Controller.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CellSheet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="311">
+              <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DisplayCells.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="151" column="44" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>true</find>
+      <find>false</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UserCells.java" />
+        <option value="$PROJECT_DIR$/src/CellModel.java" />
+        <option value="$PROJECT_DIR$/src/DisplayGetCells.java" />
+        <option value="$PROJECT_DIR$/src/Controller.java" />
+        <option value="$PROJECT_DIR$/src/DisplayCells.java" />
+        <option value="$PROJECT_DIR$/src/CellMain.java" />
+        <option value="$PROJECT_DIR$/src/CellSheet.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1304" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="GameOfLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameOfLife" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GameOfLife" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GameOfLife" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549470577873" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="CellMain" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CellMain" />
+      <module name="GameOfLife" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="CellMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2edb0ff7-6b37-4225-9b10-5c3a979db1f9" name="Default Changelist" comment="" />
+      <created>1549219071481</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549219071481</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1304" height="720" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27020603" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14808917" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39871383" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3279743" />
+      <window_info anchor="bottom" id="Docker" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32885087" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32885087" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3997555" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="sheet" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>cells</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/UserCells.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/io/PrintStream.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/lang/Thread.java" />
+    <entry file="file://$PROJECT_DIR$/src/DisplayGetCells.java" />
+    <entry file="file://$PROJECT_DIR$/src/CellModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CellMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DisplayCells.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="151" column="44" selection-start-line="151" selection-start-column="44" selection-end-line="151" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CellSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
