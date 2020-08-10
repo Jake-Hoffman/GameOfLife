@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
+@SuppressWarnings("serial")
 public class DisplayCells extends JComponent implements KeyListener, MouseListener{
 
     private Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
@@ -14,9 +15,10 @@ public class DisplayCells extends JComponent implements KeyListener, MouseListen
     private CellModel[][] cells;
 
     private boolean clickDisable = false;
-    private boolean clicked = false;
-    private boolean enableGameLoop = false;
-    int[] prevPoint = {-1, -1};
+    private boolean clickedLeft = false;
+    private boolean clickedRight = false;
+    private boolean gameLoopEnabled = false;
+    private boolean hasBegun = false;
 
     double ratio;
 
@@ -33,25 +35,27 @@ public class DisplayCells extends JComponent implements KeyListener, MouseListen
 
     private void paintCells(Graphics g){
 
-        if (enableGameLoop){
+        if (gameLoopEnabled){
             gameLoop();
         }
 
-        if(clicked){
+        if(clickedLeft){
 
             Point p = MouseInfo.getPointerInfo().getLocation();
             SwingUtilities.convertPointFromScreen(p, this);
             int x = (int)((p.getX())/ratio);
             int y = (int)((p.getY())/ratio);
+            cells[y][x].revive();
+            sheet.setCells(cells);
 
-            if (prevPoint[0] != x || prevPoint[1] != y){
-                cells[y][x].switchStatus();
-
-                sheet.setCells(cells);
-
-                prevPoint[0] = x;
-                prevPoint[1] = y;
-            }
+        } else if (clickedRight) {
+            
+            Point p = MouseInfo.getPointerInfo().getLocation();
+            SwingUtilities.convertPointFromScreen(p, this);
+            int x = (int)((p.getX())/ratio);
+            int y = (int)((p.getY())/ratio);
+            cells[y][x].kill();
+            sheet.setCells(cells);
         }
 
         for (int yy = 0; yy < cells.length; yy++) {
@@ -86,20 +90,29 @@ public class DisplayCells extends JComponent implements KeyListener, MouseListen
     public void keyPressed(KeyEvent e) {
 
         if (e.getKeyCode() == KeyEvent.VK_ENTER) {
-            enableGameLoop = true;
+            gameLoopEnabled = true;
             clickDisable = true;
+            hasBegun = true;
         }
 
         if (e.getKeyCode() == KeyEvent.VK_R) {
             cells = new CellSheet().getCells();
 
             clickDisable = false;
-            enableGameLoop = false;
+            gameLoopEnabled = false;
+            hasBegun = false;
+        }
+
+        if (e.getKeyCode() == KeyEvent.VK_SPACE && hasBegun) {
+            gameLoopEnabled = false;
         }
     }
 
     @Override
     public void keyReleased(KeyEvent e) {
+        if (e.getKeyCode() == KeyEvent.VK_SPACE && hasBegun) {
+            gameLoopEnabled = true;
+        }
     }
 
     @Override
@@ -115,19 +128,19 @@ public class DisplayCells extends JComponent implements KeyListener, MouseListen
     @Override
     public void mousePressed(MouseEvent arg0) {
 
-        if (!clickDisable){
-
-            clicked = true;
-
+        if (!clickDisable) {
+            if (arg0.getButton() == 1) {
+                clickedLeft = true;
+            } else {
+                clickedRight = true;
+            }
         }
-
     }
 
     @Override
     public void mouseReleased(MouseEvent arg0) {
-        clicked = false;
-        prevPoint[0] = -1;
-        prevPoint[1] = -1;
+        clickedRight = false;
+        clickedLeft = false;
     }
 
     public void gameLoop(){

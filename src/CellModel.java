@@ -15,10 +15,6 @@ public class CellModel {
         this.living = true;
     }
 
-    public void switchStatus(){
-        this.living = !living;
-    }
-
     public boolean checkStatus() {
         return living;
     }
